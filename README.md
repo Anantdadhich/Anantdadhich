@@ -8,13 +8,8 @@ Passionate full-stack developer with a knack for both front-end magic and back-e
 ### 🛠️ Tech Arsenal
 - 💻 **Languages:** JavaScript, C/C++, TypeScript
 - 🔧 **Frameworks:** React.js, Node.js, Express.js, Next.js, Hono.js, Turborepos
-- 🔨 **Tools:** Git, GitHub, Stream.io, Docker, Cloudflare, AWS Cloud Services, Appwrite
+- 🔨 **Tools:** Git, GitHub, Docker, Cloudflare, AWS Cloud Services, Appwrite ,Websockets,redis ,Tailwind CSS
 
-### 🌟 Superpowers
-- 🎨 Crafting dynamic UIs that dazzle
-- 🏗️ Building rock-solid back-ends
-- 🚀 Launching SEO-friendly apps at lightspeed
-- ☁️ Conjuring serverless functions
 
 ### 🎓 Education
 B.Tech in Computer Science, Poornima Institute of Engineering and Technology (2022-2026)

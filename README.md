@@ -3,15 +3,12 @@
 ## 🌟 Full Stack Developer
 
 ### 🧠 Mind Meld
-I'm not just a dev, I'm a digital dreamweaver. Turning caffeine into code and ideas into pixels. Front-end? Back-end? I juggle both like a boss. Always leveling up, because in tech, if you're not growing, you're GOTOing obsolete!
+I'm not just a dev, I am always eager to learn new technologies and deeply believe in the value of continuous learning and knowledge acquisition. Whenever I find myself feeling bored, I turn to music as a source of inspiration.
 
 ### 🔮 Techno-Magical Toolbox
 - 🔥 **Spells (Languages):** JavaScript, C/C++, TypeScript
 - 🏗️ **Enchanted Frameworks:** React.js, Node.js, Express.js, Next.js, Hono.js, Turborepos
 - 🧰 **Arcane Artifacts:** Git, GitHub, Docker, Cloudflare, AWS Cloud Services, Appwrite, WebSockets, Redis, Tailwind CSS, WebRTC
-
-### 🎓 Arcane Academy
-Mastering the Dark Arts of Computer Science at Poornima Institute of Engineering and Technology (2022-2026)
 
 ### 🌌 Astral Projection (Let's Connect!)
 [🔗 LinkedIn](https://www.linkedin.com/in/anant-dadhich-b4aa02256)

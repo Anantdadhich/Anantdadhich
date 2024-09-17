@@ -1,4 +1,4 @@
-# 🚀 Sup, I'm ! Anant Dadhich 🧙‍♂️
+# 🚀 Sup, I'm ! Anant Dadhich 
 
 ## 🌟 Full Stack Developer
 

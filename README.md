@@ -3,7 +3,7 @@
 ## 🌟 Full Stack Developer
 
 ### 🧠 Mind Meld
-I'm not just a dev, I am always eager to learn new technologies and deeply believe in the value of continuous learning and knowledge acquisition. Whenever I find myself feeling bored, I turn to music as a source of inspiration.
+I am always eager to learn new technologies and deeply believe in the value of continuous learning and knowledge acquisition. Whenever I find myself feeling bored, I turn to music as a source of inspiration.
 
 ### 🔮 Techno-Magical Toolbox
 - 🔥 **Spells (Languages):** JavaScript, C/C++, TypeScript

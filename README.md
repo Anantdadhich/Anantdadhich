@@ -10,8 +10,7 @@ I am always eager to learn new technologies and deeply believe in the value of c
 - 🏗️ **Enchanted Frameworks:** React.js, Node.js, Express.js, Next.js, Hono.js, Turborepos
 - 🧰 **Arcane Artifacts:** Git, GitHub, Docker, Cloudflare, AWS Cloud Services, Appwrite, WebSockets, Redis, Tailwind CSS, WebRTC
 
-### 🌌 Astral Projection (Let's Connect!)
-[🔗 LinkedIn](https://www.linkedin.com/in/anant-dadhich-b4aa02256)
+
 
 > "In the world of coding, every bug is just a feature waiting to be discovered!" 🐛✨
 

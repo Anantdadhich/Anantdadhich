@@ -1,14 +1,15 @@
-# 🚀 Sup, I'm ! Anant Dadhich 
+#  I'm ! Anant Dadhich (Adtech)
 
-## 🌟 Full Stack Developer
+## Full Stack & Solana Blockchain Developer
 
-### 🧠 Mind Meld
-I am always eager to learn new technologies and deeply believe in the value of continuous learning and knowledge acquisition. Whenever I find myself feeling bored, I turn to music as a source of inspiration.
+###  About me 
+I am always eager to learn new technologies and I want to contribute my tech expertise to build cool products. Doing problems in Rust, due to its strong memory safety features.
 
-### 🔮 Techno-Magical Toolbox
-- 🔥 **Spells (Languages):** JavaScript, C/C++, TypeScript
-- 🏗️ **Enchanted Frameworks:** React.js, Node.js, Express.js, Next.js, Hono.js, Turborepos
-- 🧰 **Arcane Artifacts:** Git, GitHub, Docker, Cloudflare, AWS Cloud Services, Appwrite, WebSockets, Redis, Tailwind CSS, WebRTC
+###  Skills
+-  Languages: JavaScript , TypeScript, Rust
+-  Frameworks: React.js, Node.js, Express.js, Next.js, Hono.js, Turborepos
+-  Database: Postgress , Prisma ORM , MongoDB 
+-  Tools: Git, GitHub, Docker, Cloudflare, AWS , Appwrite, WebSockets, Redis, Tailwind CSS , WebRTC , SolanaWeb3.js 
 
 
 
